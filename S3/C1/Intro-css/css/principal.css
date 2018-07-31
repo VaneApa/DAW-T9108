@@ -1,0 +1,54 @@
+/*h1{
+  color:blue;
+  font-size:20px;
+  font-family:Verdana;
+}*/
+
+/**{
+  font-family:Verdana;
+}*/
+
+
+
+/*body {
+  font-family:Verdana;
+  background:orange;
+  color:white;
+  text-align: center;
+}*/
+body {
+  font-family:Verdana;
+  margin: 0;
+}
+header{
+  background:CornflowerBlue;
+  color:white;
+  margin: 0px 0px;
+  padding: 20px 10px;
+  text-align: center;
+}
+header h1{
+  text-transform: uppercase;
+}
+.portada{
+  text-align: center;
+  background:Gainsboro;
+}
+.portada h2{
+  text-transform: uppercase;
+}
+.portada p{
+  font-style: italic;
+}
+
+
+/*uso del id*/
+#main-footer{
+  text-align: center;
+  font-weight: bold;
+}
+.mine{
+  text-align: center;
+  color: purple;
+  background:Gainsboro;
+}
