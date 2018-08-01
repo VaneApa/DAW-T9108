@@ -1,0 +1,45 @@
+
+body{
+  background:#2FA4FF;
+  font-family: Verdana;
+}
+header{
+background: #F7FFE5;
+text-align: center;
+}
+
+li{
+display: flex;
+}
+.box-main{
+  background: #F7FFE5;
+  width:500px;
+  height: 400px;
+}
+
+/*para las clases de valores absolutos*/
+.a-1{
+  background: rgb(255,255,255)
+  width: 60px;
+  height: 55px
+}
+.a-2{
+  background:#F7FFE5;
+margin: 10px;
+  width: 10cm;
+  height: 10cm;
+}
+.a-3{
+  background:#F7FFE5;
+margin: 10px;
+  width: 10cm;
+  height: 10cm;
+}
+
+.r-1{
+  background:#F7FFE5;
+  width: 50%;
+  height: 200px;
+  margin-top:10px;
+margin-left: 30%;
+}
