@@ -1,0 +1,55 @@
+.principal{
+  background-color:#6D6D6D;
+  height: 120px;
+  font-size: 50px;
+  display:flex;
+  justify-content: space-between;
+  padding-right:2%;
+  padding-top: 3%;
+  padding-left: 2%;
+  border-bottom: 10px solid #F17405;
+
+
+  }
+  .principal a{
+    text-decoration:none;
+    color: white;
+    font-family:Palatino Linotype;
+  }
+.imagen{
+  background-image:url("https://picsum.photos/1720/780");
+  height:350px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.parte-abajo{
+  background-color: #6D6D6D;
+  height: 1000px;
+  border-top: 10px solid #F17405;
+}
+.nz{
+  background-color:#F17405;
+  width:38%;
+  color:white;
+  font-family:Palatino Linotype;
+  font-size: 25px;
+margin-top: 2%;
+margin-left: 4%;
+padding: 0.1% 0.1% 0.1% 0.1%;
+}
+
+
+.ima-2{
+  background-image: url("https://picsum.photos/1720/780");
+  background-size: cover;
+  height: 250px;
+  width: 32.8%;
+  margin-top: 2%;
+  margin-left: 4%
+}
+.parra{
+  background-color: rgba(3, 3, 3 ,0.5)
+  width:70%
+}

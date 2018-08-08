@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat|Great+Vibes|Parisienne|Sacramento|Shadows+Into+Light+Two');
+
+.titulo h1{
+  font-family: 'Great Vibes', cursive;
+
+}
+.font h2{
+  font-family:'Caveat', cursive;
+}
+.font p{
+  font-family: 'Parisienne', cursive;
+}
+.num{
+  font-family: 'Shadows Into Light Two', cursive;
+}
